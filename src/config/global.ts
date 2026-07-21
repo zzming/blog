@@ -1,7 +1,7 @@
 export const globalConfig = {
   site: {
     name: "Your Portfolio Name",
-    author: "Your Name",
+    author: "zzming",
     description: "A brief description of your portfolio website",
     url: "/"
   },
@@ -9,30 +9,30 @@ export const globalConfig = {
     aria: "Main Navigation",
     items: [
       {
-        title: "Home",
+        title: "首页",
         href: "/"
       },
       {
-        title: "Projects",
+        title: "项目",
         href: "/projects"
       },
       {
-        title: "Posts",
+        title: "博客",
         href: "/posts"
       },
       {
-        title: "About",
+        title: "关于",
         href: "/about"
       }
     ]
   },
   footer: {
     aria: "Footer Navigation",
-    copyright: "© 2025 Your Name. All rights reserved.",
+    copyright: "© 2026 zzming. All rights reserved.",
     social: {
-      twitter: "https://x.com/TencentCloudEO",
-      github: "https://github.com/TencentEdgeOne",
-      email: "media_service@tencent.com"
+      twitter: "https://x.com/1006606787",
+      github: "https://github.com/zzming",
+      email: "zzming@qq.com"
     }
   }
 } as const; 
