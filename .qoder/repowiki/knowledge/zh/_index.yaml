@@ -1,0 +1,25 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: zh-CN
+branch: main
+nodes_managed: true
+exported_at: "2026-07-21T11:33:45Z"
+modules:
+    "":
+        dir_name: Next.js 静态博客站点根配置
+        title: Next.js 静态博客站点根配置
+        scope:
+            - README.md
+            - .gitignore
+            - package.json
+            - package-lock.json
+            - next.config.js
+            - postcss.config.js
+            - tailwind.config.js
+            - tsconfig.json
+            - tsconfig.scripts.json
+            - README_zh-CN.md
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []
